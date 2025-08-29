@@ -1,4 +1,4 @@
-#Commodities Management UI
+# Commodities Management UI
 
 ## Reference
 The problem statement and UI design reference is from the Slooze Figma file. Sample data and components were assumed/added as required for implementation.
