@@ -10,7 +10,7 @@ The problem statement and UI design reference is from the Slooze Figma file. Sam
 - Add Products (Manager role)
 - Light/Dark mode toggle
 - Role-based menu restrictions
-- 
+  
 ## How to run locally
 1. Clone the repository:
    git clone https://github.com/eikansh-gupta/Commodities-Management-UI.git
